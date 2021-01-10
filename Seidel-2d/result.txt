@@ -1,0 +1,16 @@
+Процесс 5 сломался на итерации: 0, на строке: 7
+Процесс 4 обнаружил ошибку
+Процесс 6 обнаружил ошибку
+Загружена контрольная точка CP/DATA_4_0_7.txt
+Загружена контрольная точка CP/DATA_5_0_6.txt
+Процесс 10 заменил процесс 5
+Time in seconds = 0.195969
+Time in seconds = 0.197928
+Time in seconds = 0.198315
+Time in seconds = 0.199267
+Time in seconds = 0.199444
+Time in seconds = 0.200504
+Time in seconds = 0.208191
+Time in seconds = 0.208053
+Time in seconds = 0.208405
+Time in seconds = 0.208768
